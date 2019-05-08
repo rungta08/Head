@@ -1,0 +1,24 @@
+Result Test case for command head filename
+Completed
+Result Test case for command head -n5 filename
+Completed
+Result Test case for command head -n 5 filename
+Completed
+Result Test case for command head -c5 filename
+Completed
+Result Test case for command head -c 5 filename
+Completed
+Result Test case for command head -5 filename
+Completed
+Result Test case for command head filename filename ...
+Completed
+Result Test case for command head filename -n5 filename ...
+Completed
+Result Test case for command head filename -n 5 filename ...
+Completed
+Result Test case for command head filename -c5 filename ...
+Completed
+Result Test case for command head filename -c 5 filename ...
+Completed
+Result Test case for command head filename -5 filename ...
+Completed
