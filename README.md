@@ -26,5 +26,7 @@ Type following command on terminal while still in project directory:
 ````
 sh test.sh
 ````
+
+Now to see Test Result see result.txt
   
   
